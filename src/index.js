@@ -6,7 +6,7 @@ app.get('/', function (req, res) {
 });
 
 app.listen(3000, function () {
-  console.log(' app listening on  3000!');
+  console.log(' app on 3000!,changed node --v to 9 from 12');
 });
 
 const say_hello = 'something';
